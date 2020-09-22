@@ -4,6 +4,8 @@
     <title>Hello World</title>
     <url>/2020/09/20/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<a id="more"></a>
+
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
@@ -21,7 +23,22 @@
   <entry>
     <title>我一无所求</title>
     <url>/2020/09/20/%E6%88%91%E4%B8%80%E6%97%A0%E6%89%80%E6%B1%82/</url>
-    <content><![CDATA[<p>我一无所求，只站在林边树后。<br>倦意还逗留在黎明的眼上，露润在空气里。<br>湿草的懒味悬垂在地面的薄雾中。<br>在榕树下你用乳油般柔嫩的手挤着牛奶。<br>我沉静地站立着。<br>我没有走近你。<br>天空和庙里的锣声一同醒起。<br>街尘在驱走的牛蹄下飞扬。<br>把汩汩发响的水瓶搂在腰上，<br>女人们从河边走来。<br>你的钏镯丁当，乳沫溢出罐沿。<br>晨光渐逝而我没有步近你。</p>
+    <content><![CDATA[<center>我一无所求，只站在林边树后。
+
+<a id="more"></a>
+
+<center>倦意还逗留在黎明的眼上，露润在空气里。</center>
+<center>湿草的懒味悬垂在地面的薄雾中。</center>
+<center>在榕树下你用乳油般柔嫩的手挤着牛奶。</center>
+<center>我沉静地站立着。</center>
+<center>我没有走近你。</center>
+<center>天空和庙里的锣声一同醒起。</center>
+<center>街尘在驱走的牛蹄下飞扬。</center>
+<center>把汩汩发响的水瓶搂在腰上，</center>
+<center>女人们从河边走来。</center>
+<center>你的钏镯丁当，乳沫溢出罐沿。</center>
+<center>晨光渐逝而我没有步近你。</center>
+
 ]]></content>
       <categories>
         <category>生活</category>
@@ -35,7 +52,9 @@
     <url>/2020/09/20/%E6%B5%8B%E8%AF%95%E9%A1%B5/</url>
     <content><![CDATA[<h1 id="测试文章"><a href="#测试文章" class="headerlink" title="测试文章"></a>测试文章</h1><figure class="highlight java"><table><tr><td class="code"><pre><span class="line">System.out.print(<span class="string">&quot;hello world!&quot;</span>);</span><br></pre></td></tr></table></figure>
 
-<p><img data-src="http://static.7ait.com/avatar.jpg"></p>
+<a id="more"></a>
+
+<p><img data-src="http://static.7ait.com/avatar.jpg" alt="avatar"></p>
 ]]></content>
       <categories>
         <category>折腾</category>
