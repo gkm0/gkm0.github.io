@@ -21,21 +21,39 @@
 ]]></content>
   </entry>
   <entry>
-    <title>测试页</title>
-    <url>/test/</url>
-    <content><![CDATA[<h1 id="测试文章"><a href="#测试文章" class="headerlink" title="测试文章"></a>测试文章</h1><figure class="highlight java"><table><tr><td class="code"><pre><span class="line">System.out.print(<span class="string">&quot;hello world!&quot;</span>);</span><br></pre></td></tr></table></figure>
-
+    <title>我一无所求</title>
+    <url>/i-asked-nothing/</url>
+    <content><![CDATA[<p><img data-src="http://static.7ait.com/iaskednothing.jpg" alt="Painting by Vincent van Gogh"></p>
+<p>I asked nothing, only stood at the edge of the wood behind the tree.</p>
+<p>我一无所求，只站在林边树后。</p>
 <a id="more"></a>
 
-<p><img data-src="http://static.7ait.com/avatar.jpg" alt="avatar"></p>
+<p>Languor was still upon the eyes of the dawn, and the dew in the air.</p>
+<p>倦意还逗留在黎明的眼上，露润在空气里。</p>
+<p>The lazy smell of the damp grass hung in the thin mist above the earth.</p>
+<p>湿草的懒味悬垂在地面的薄雾中。</p>
+<p>Under the banyan tree you were milking the cow with your hands, tender and fresh as butter.</p>
+<p>在榕树下你用乳油般柔嫩的手挤着牛奶。</p>
+<p>And I was standing still.</p>
+<p>我沉静地站立着。</p>
+<p>I did not come near you.</p>
+<p>我没有走近你。</p>
+<p>The sky woke with the sound of the gong at the temple.</p>
+<p>天空和庙里的锣声一同醒起。</p>
+<p>The dust was raised in the road from the hoofs of the driven cattle.</p>
+<p>街尘在驱走的牛蹄下飞扬。</p>
+<p>With the gurgling pitchers at their hips, women came from the river.</p>
+<p>把汩汩发响的水瓶搂在腰上，女人们从河边走来。</p>
+<p>Your bracelets were jingling, and foam brimming over the jar.</p>
+<p>你的钏镯丁当，乳沫溢出罐沿。</p>
+<p>The morning wore on and I did not come near you.</p>
+<p>晨光渐逝而我没有步近你。</p>
 ]]></content>
       <categories>
-        <category>折腾</category>
+        <category>生活</category>
       </categories>
       <tags>
-        <tag>测试</tag>
-        <tag>博客</tag>
-        <tag>hexo</tag>
+        <tag>诗歌</tag>
       </tags>
   </entry>
   <entry>
@@ -110,39 +128,21 @@
       </tags>
   </entry>
   <entry>
-    <title>我一无所求</title>
-    <url>/i-asked-nothing/</url>
-    <content><![CDATA[<p><img data-src="http://static.7ait.com/iaskednothing.jpg" alt="Painting by Vincent van Gogh"></p>
-<p>I asked nothing, only stood at the edge of the wood behind the tree.</p>
-<p>我一无所求，只站在林边树后。</p>
+    <title>测试页</title>
+    <url>/test/</url>
+    <content><![CDATA[<h1 id="测试文章"><a href="#测试文章" class="headerlink" title="测试文章"></a>测试文章</h1><figure class="highlight java"><table><tr><td class="code"><pre><span class="line">System.out.print(<span class="string">&quot;hello world!&quot;</span>);</span><br></pre></td></tr></table></figure>
+
 <a id="more"></a>
 
-<p>Languor was still upon the eyes of the dawn, and the dew in the air.</p>
-<p>倦意还逗留在黎明的眼上，露润在空气里。</p>
-<p>The lazy smell of the damp grass hung in the thin mist above the earth.</p>
-<p>湿草的懒味悬垂在地面的薄雾中。</p>
-<p>Under the banyan tree you were milking the cow with your hands, tender and fresh as butter.</p>
-<p>在榕树下你用乳油般柔嫩的手挤着牛奶。</p>
-<p>And I was standing still.</p>
-<p>我沉静地站立着。</p>
-<p>I did not come near you.</p>
-<p>我没有走近你。</p>
-<p>The sky woke with the sound of the gong at the temple.</p>
-<p>天空和庙里的锣声一同醒起。</p>
-<p>The dust was raised in the road from the hoofs of the driven cattle.</p>
-<p>街尘在驱走的牛蹄下飞扬。</p>
-<p>With the gurgling pitchers at their hips, women came from the river.</p>
-<p>把汩汩发响的水瓶搂在腰上，女人们从河边走来。</p>
-<p>Your bracelets were jingling, and foam brimming over the jar.</p>
-<p>你的钏镯丁当，乳沫溢出罐沿。</p>
-<p>The morning wore on and I did not come near you.</p>
-<p>晨光渐逝而我没有步近你。</p>
+<p><img data-src="http://static.7ait.com/avatar.jpg" alt="avatar"></p>
 ]]></content>
       <categories>
-        <category>生活</category>
+        <category>折腾</category>
       </categories>
       <tags>
-        <tag>诗歌</tag>
+        <tag>测试</tag>
+        <tag>博客</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
 </search>
