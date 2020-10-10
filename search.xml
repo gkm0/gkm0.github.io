@@ -23,7 +23,7 @@
   <entry>
     <title>我一无所求</title>
     <url>/i-asked-nothing/</url>
-    <content><![CDATA[<p><img data-src="http://static.7ait.com/iaskednothing.jpg" alt="Painting by Vincent van Gogh"></p>
+    <content><![CDATA[<p><img data-src="https://static.7ait.com/iaskednothing.jpg" alt="Painting by Vincent van Gogh"></p>
 <p>I asked nothing, only stood at the edge of the wood behind the tree.</p>
 <p>我一无所求，只站在林边树后。</p>
 <a id="more"></a>
@@ -74,7 +74,7 @@
 
 <h2 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h2><figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">![<span class="string">图片alt</span>](<span class="link">图片地址 &quot;图片title&quot;</span>)</span><br><span class="line"></span><br><span class="line">图片alt就是显示在图片下面的文字，相当于对图片内容的解释。</span><br><span class="line">图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加</span><br></pre></td></tr></table></figure>
 
-<p><img data-src="http://static.7ait.com/avatar.jpg" alt="avatar" title="我的头像"></p>
+<p><img data-src="https://static.7ait.com/avatar.jpg" alt="avatar" title="我的头像"></p>
 <figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">![<span class="string">avatar</span>](<span class="link">http://static.7ait.com/avatar.jpg &quot;我的头像&quot;</span>)</span><br></pre></td></tr></table></figure>
 
 <h2 id="超链接"><a href="#超链接" class="headerlink" title="超链接"></a>超链接</h2><figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">[<span class="string">超链接名</span>](<span class="link">超链接地址 &quot;超链接title&quot;</span>)</span><br><span class="line">title可加可不加</span><br></pre></td></tr></table></figure>
@@ -134,7 +134,7 @@
 
 <a id="more"></a>
 
-<p><img data-src="http://static.7ait.com/avatar.jpg" alt="avatar"></p>
+<p><img data-src="https://static.7ait.com/avatar.jpg" alt="avatar"></p>
 ]]></content>
       <categories>
         <category>折腾</category>
@@ -154,7 +154,7 @@
 <a id="more"></a>
 
 <h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><p>如下为视频</p>
-<center><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px; width:90%;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"video":{"url":"http://static.7ait.com/stayhungrystayfoolish.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script></center>
+<center><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px; width:90%;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"video":{"url":"https://static.7ait.com/stayhungrystayfoolish.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script></center>
 
 <hr>
 <h2 id="原文"><a href="#原文" class="headerlink" title="原文"></a>原文</h2><p>如下为演讲稿原文</p>
